@@ -1,4 +1,4 @@
-# All About Me
+# All About Me hehe
 
 ## Description
 
@@ -8,9 +8,9 @@ All About Me is a collection of three creative and technology-related activities
 
 ## Table of Contents
 
-1. [Activity 1: Presentation Design Principle](#activity-1-presentation-design-principle)
-2. [Activity 2: Color Palette and Typography](#activity-2-color-palette-and-typography)
-3. [Activity 3: Social Media Infographics and Mini Project Documentation](#activity-3-social-media-infographics-and-mini-project-documentation)
+[Activity 1: Presentation Design Principle](#activity-1-presentation-design-principle)
+[Activity 2: Color Palette and Typography](#activity-2-color-palette-and-typography)
+[Activity 3: Social Media Infographics and Mini Project Documentation](#activity-3-social-media-infographics-and-mini-project-documentation)
 
 ---
 
