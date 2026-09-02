@@ -2,7 +2,7 @@
 
 ## Description
 
-**All About Me** is a collection of three creative and technology-related activities that showcase my skills in graphic design, personal branding, visual communication, and technology-based problem-solving. Each activity demonstrates how design principles and digital tools can be used to effectively communicate ideas and address real-world problems.
+All About Me is a collection of three creative and technology-related activities that showcase my skills in graphic design, personal branding, visual communication, and technology-based problem-solving. Each activity demonstrates how design principles and digital tools can be used to effectively communicate ideas and address real-world problems.
 
 ---
 
