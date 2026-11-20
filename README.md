@@ -17,8 +17,8 @@ This portfolio represents my learning journey, creativity, and continuous develo
 3. [Activity 3: Social Media Infographics and Mini Project Documentation](#activity-3-social-media-infographics-and-mini-project-documentation)
 4. [Activity 4: Google Sheets Presentation](#activity-4-google-sheets-presentation)
 5. [Activity 5: AI Tools Activity](#activity-5-ai-tools-activity)
-6. [Activity 6: Website Development Using Base44](#activity-6-website-development-using-base44)
-7. [Activity 7: AI-Generated Resume Comparison](#activity-7-ai-generated-resume-comparison)
+6. [Activity 6: Making a Website](#activity-6-making-a-website)
+7. [Activity 7: Resume Generating](#activity-7-reume-generating)
 
 ---
 
@@ -110,7 +110,7 @@ This activity demonstrates how AI can assist in developing program logic, identi
 
 ---
 
-## Activity 6: Website Development Using Base44
+## Activity 6: Making a Website
 
 This activity focuses on using **Base44**, an AI-powered platform for creating applications and websites, to develop a medical supplies online business concept called **MediCare Supplies PH**.
 
@@ -126,7 +126,7 @@ It also highlights the potential of technology in making medical supplies more a
 
 ---
 
-## Activity 7: AI-Generated Resume Comparison
+## Activity 7: Resume Generating
 
 This activity explores the use of **Artificial Intelligence in professional document creation**, specifically in developing a professional resume.
 
