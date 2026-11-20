@@ -2,7 +2,11 @@
 
 ## 📌 Description
 
-**All About Me** is a collection of seven creative, academic, and technology-related activities that showcase my skills in graphic design, personal branding, visual communication, productivity tools, artificial intelligence, and technology-based problem-solving. Each activity demonstrates my ability to use different digital platforms and tools to create outputs, communicate ideas, and develop practical solutions to real-world problems.
+Hello! My name is **John Roel G. Estorninos**. I created this repository as a digital portfolio to showcase my activities, projects, and learnings throughout the course. It contains seven activities that demonstrate my creativity, skills, and exploration of different digital tools and technologies.
+
+Through these activities, I gained experience in presentation design, personal branding, visual communication, productivity tools, artificial intelligence, and website development. I also learned how technology can be used to communicate ideas, improve processes, and develop solutions to real-world problems.
+
+This portfolio represents my learning journey, creativity, and continuous development in using technology for both academic and practical applications.
 
 ---
 
