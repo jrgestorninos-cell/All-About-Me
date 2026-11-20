@@ -18,7 +18,7 @@ This portfolio represents my learning journey, creativity, and continuous develo
 4. [Activity 4: Google Sheets Presentation](#activity-4-google-sheets-presentation)
 5. [Activity 5: AI Tools Activity](#activity-5-ai-tools-activity)
 6. [Activity 6: Making a Website](#activity-6-making-a-website)
-7. [Activity 7: Resume Generating](#activity-7-reume-generating)
+7. [Activity 7: Resume Generating](#activity-7-resume-generating)
 
 ---
 
