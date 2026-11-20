@@ -18,7 +18,7 @@
 
 ---
 
-## 🎨 Activity 1: Presentation Design Principle
+## Activity 1: Presentation Design Principle
 
 This activity focuses on applying **presentation design principles** to create a promotional poster for a hypothetical event offering **free coffee**. The poster demonstrates the use of layout, typography, color, visual hierarchy, and other design elements to create an attractive and engaging event announcement.
 
@@ -30,7 +30,7 @@ This activity focuses on applying **presentation design principles** to create a
 
 ---
 
-## 🎨 Activity 2: Color Palette and Typography
+## Activity 2: Color Palette and Typography
 
 This activity focuses on developing a personal **visual identity and branding**. It presents my selected color palette and typography, along with the fonts, personal logo, header, and tagline used to represent my personal brand. The activity demonstrates how consistent visual elements can be combined to create a recognizable and cohesive brand identity.
 
@@ -56,7 +56,7 @@ This activity focuses on developing a personal **visual identity and branding**.
 
 ---
 
-## 📊 Activity 3: Social Media Infographics and Mini Project Documentation
+## Activity 3: Social Media Infographics and Mini Project Documentation
 
 This activity focuses on **visual communication and technology-based problem-solving** by addressing a real-world issue: **long waiting times in clinics and hospitals**.
 
@@ -78,7 +78,7 @@ The second part involves creating a **mini project documentation report** propos
 
 ---
 
-## 📊 Activity 4: Google Sheets Presentation
+## Activity 4: Google Sheets Presentation
 
 This activity focuses on exploring and understanding **Google Sheets** as a productivity and spreadsheet tool. I created a PowerPoint presentation discussing Google Sheets, its features, functions, and practical applications. The activity highlights how spreadsheet tools can help organize information, manage data, perform calculations, and improve productivity.
 
@@ -106,7 +106,7 @@ This activity demonstrates how AI can assist in developing program logic, identi
 
 ---
 
-## 🏥 Activity 6: Website Development Using Base44
+## Activity 6: Website Development Using Base44
 
 This activity focuses on using **Base44**, an AI-powered platform for creating applications and websites, to develop a medical supplies online business concept called **MediCare Supplies PH**.
 
@@ -122,7 +122,7 @@ It also highlights the potential of technology in making medical supplies more a
 
 ---
 
-## 🤖 Activity 7: AI-Generated Resume Comparison
+## Activity 7: AI-Generated Resume Comparison
 
 This activity explores the use of **Artificial Intelligence in professional document creation**, specifically in developing a professional resume.
 
