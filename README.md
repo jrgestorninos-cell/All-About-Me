@@ -12,7 +12,7 @@
 2. [Activity 2: Color Palette and Typography](#activity-2-color-palette-and-typography)
 3. [Activity 3: Social Media Infographics and Mini Project Documentation](#activity-3-social-media-infographics-and-mini-project-documentation)
 4. [Activity 4: Google Sheets Presentation](#activity-4-google-sheets-presentation)
-5. [Activity 5: Program Flow Comparison Using AI](#activity-5-program-flow-comparison-using-ai)
+5. [Activity 5: AI Tools Activity](#Activity-5:-AI-Tools-Activity)
 6. [Activity 6: Website Development Using Base44](#activity-6-website-development-using-base44)
 7. [Activity 7: AI-Generated Resume Comparison](#activity-7-ai-generated-resume-comparison)
 
@@ -90,7 +90,7 @@ This activity focuses on exploring and understanding **Google Sheets** as a prod
 
 ---
 
-## 💻 Activity 5: Program Flow Comparison Using AI
+## 💻 Activity 5: AI Tools Activity
 
 This activity explores the use of **Artificial Intelligence (AI), particularly ChatGPT, in developing and improving program flowcharts**.
 
