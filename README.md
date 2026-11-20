@@ -90,7 +90,7 @@ This activity focuses on exploring and understanding **Google Sheets** as a prod
 
 ---
 
-## 💻 Activity 5: AI Tools Activity
+## Activity 5: AI Tools Activity
 
 This activity explores the use of **Artificial Intelligence (AI), particularly ChatGPT, in developing and improving program flowcharts**.
 
