@@ -12,7 +12,7 @@
 2. [Activity 2: Color Palette and Typography](#activity-2-color-palette-and-typography)
 3. [Activity 3: Social Media Infographics and Mini Project Documentation](#activity-3-social-media-infographics-and-mini-project-documentation)
 4. [Activity 4: Google Sheets Presentation](#activity-4-google-sheets-presentation)
-5. [Activity 5: AI Tools Activity](#activity-5:-ai-tools-activity)
+5. [Activity 5: AI Tools Activity](#activity-5-ai-tools-activity)
 6. [Activity 6: Website Development Using Base44](#activity-6-website-development-using-base44)
 7. [Activity 7: AI-Generated Resume Comparison](#activity-7-ai-generated-resume-comparison)
 
